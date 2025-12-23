@@ -1,4 +1,4 @@
-import SignUpPage from '../../pages/SignupPage';
+import SignUpPage from '../pages/SignupPages';
 
 describe('User Registration', () => {
     const signuppage = new SignUpPage();
